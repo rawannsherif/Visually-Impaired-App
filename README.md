@@ -1,2 +1,2 @@
-# Visually-Impaired-App
-Mobile application designed for visually impairment | Flutter (Dart)
+# Visual-Impairement
+Mobile App for visually impaired people
